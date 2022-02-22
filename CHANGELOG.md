@@ -3,7 +3,8 @@
 ### Some day
 * An add-more data bug
 
-## npm v0.2.7
+## npm v1.0.0
+* update packages
 
 ### 2019-05-04
 * Add inner resources
