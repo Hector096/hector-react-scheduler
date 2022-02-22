@@ -1,25 +1,24 @@
 {
   "name": "@hector/react-scheduler",
-  "version": "0.2.7",
+  "version": "1.0.0",
   "description": "A scheduler and resource planning component built for React and made for modern browsers (IE10+)",
   "keywords": [
     "scheduler",
     "react-component",
     "react",
-    "react-big-scheduler",
     "resource planning",
     "antd"
   ],
-  "homepage": "https://github.com/StephenChou1017/react-big-scheduler",
+  "homepage": "https://github.com/Hector096/hector-react-scheduler",
   "bugs": {
-    "url": "http://github.com/StephenChou1017/react-big-scheduler/issues"
+    "url": "https://github.com/Hector096/hector-react-scheduler/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:StephenChou1017/react-big-scheduler.git"
+    "url": "https://github.com/Hector096/hector-react-scheduler"
   },
   "license": "MIT",
-  "author": "Stephen Chou <27788280@qq.com> (https://github.com/StephenChou1017)",
+  "author": "Hector <27788280@qq.com> (https://github.com/Hector096)",
   "main": "lib/index",
   "files": [
     "lib/",

@@ -1,4 +1,4 @@
-# react-big-scheduler ![npm](https://img.shields.io/npm/v/react-big-scheduler.svg?style=plastic)
+# react-scheduler ![npm](https://img.shields.io/npm/v/react-big-scheduler.svg?style=plastic)
 
 A scheduler and resource planning component built for React and made for modern browsers (IE10+), IE needs babel-polyfill.  
 **From the npm version 0.2.6, Scheduler will use responsive layout by default(set SchedulerData.config.schedulerWidth to a percentage instead of a number).**
@@ -9,17 +9,17 @@ Inspired by [Full Calendar Scheduler](https://fullcalendar.io/scheduler/).
 
 ## Version selection
 
-- antd >= 3.9.0 ? react-big-scheduler@0.2.7 : react-big-scheduler@0.2.4
+- antd >= 3.9.0 ? @hector/react-scheduler@0.2.7 : @hector/react-scheduler@0.2.4
 
 ## Use and Setup
 
-`npm install react-big-scheduler --save`
+`npm install @hector/react-scheduler --save`
 
 ```js
 //1. import
-import Scheduler, {SchedulerData, ViewTypes, DATE_FORMAT} from 'react-big-scheduler'
+import Scheduler, {SchedulerData, ViewTypes, DATE_FORMAT} from '@hector/react-scheduler'
 //include `react-big-scheduler/lib/css/style.css` for styles, link it in html or import it here
-import 'react-big-scheduler/lib/css/style.css'
+import '@hector/react-scheduler/lib/css/style.css'
 import moment from 'moment'
 ...
 
